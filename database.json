@@ -1,0 +1,125 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "jdfitz",
+      "email": "jdfitz@gmail.com",
+      "password": "password",
+      "profilePic": "https://cdn.vox-cdn.com/thumbor/wdY9Nn9bkrkkdlh8QR9ad5V1JRY=/0x0:690x331/1400x788/filters:focal(272x101:382x211):format(png)/cdn.vox-cdn.com/uploads/chorus_image/image/53099131/Screen_Shot_2017_02_05_at_11.22.01_AM.0.png",
+      "bio": "Tron ride is best ride in the world",
+      "deleted": false
+    },
+    {
+      "email": "greg@gmail.com",
+      "userName": "illumiGreg",
+      "password": "Greg",
+      "id": 2
+    },
+    {
+      "email": "alexv@gmail.com",
+      "userName": "alexv",
+      "password": "password",
+      "id": 3
+    }
+  ],
+  "favorites": [],
+  "themeParks": [],
+  "itineraries": [],
+  "discussions": [
+    {
+      "title": "Why is it always so long??",
+      "attractionId": "9d4d5229-7142-44b6-b4fb-528920969a2c",
+      "datePosted": "2023-07-26T15:08:26+00:00",
+      "posterId": 2,
+      "id": 1
+    },
+    {
+      "title": "Money launderingg ride??",
+      "attractionId": "9d4d5229-7142-44b6-b4fb-528920969a2c",
+      "datePosted": "2023-07-26T14:59:26+00:00",
+      "posterId": 1,
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "discussionId": 1,
+      "posterId": 2,
+      "message": "It's an okay ride, I just don't get it. How is it always so crowded?",
+      "datePosted": "7/26/2023",
+      "id": 1
+    },
+    {
+      "discussionId": 1,
+      "posterId": 1,
+      "message": "Cause it's a decent exciting kid's coaster. It's like a fly zapper for young families.",
+      "datePosted": "7/26/2023",
+      "id": 2
+    },
+    {
+      "discussionId": "1",
+      "posterId": 3,
+      "message": "I wouldn't complain since it's making other lines shorter",
+      "datePosted": "",
+      "id": 3
+    },
+    {
+      "discussionId": "2",
+      "posterId": 3,
+      "message": "Must be",
+      "datePosted": "",
+      "id": 4
+    }
+  ],
+  "opinions": [
+    {
+      "userId": 1,
+      "attractionId": "72c7343a-f7fb-4f66-95df-c91016de7338",
+      "waitTime": 35,
+      "worthIt": true,
+      "reasoning": "Very good for this long, it typically stays at a much longer wait",
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "attractionId": "72c7343a-f7fb-4f66-95df-c91016de7338",
+      "waitTime": 35,
+      "worthIt": true,
+      "reasoning": "Absolutely! This ride is a classic!",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "attractionId": "72c7343a-f7fb-4f66-95df-c91016de7338",
+      "waitTime": 35,
+      "worthIt": false,
+      "reasoning": "Meh, not my vibe",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "attractionId": "8183f3f2-1b59-4b9c-b634-6a863bdf8d84",
+      "waitTime": 5,
+      "worthIt": true,
+      "reasoning": "Nice place to sit down. Gotta love John",
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "attractionId": "8183f3f2-1b59-4b9c-b634-6a863bdf8d84",
+      "waitTime": 5,
+      "worthIt": true,
+      "reasoning": "JOHNNN",
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "attractionId": "9d4d5229-7142-44b6-b4fb-528920969a2c",
+      "waitTime": 105,
+      "worthIt": false,
+      "reasoning": "It's okay, definitely not worth this wait though.",
+      "id": 6
+    }
+  ],
+  "uploads": []
+}
